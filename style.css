@@ -1,0 +1,26 @@
+body {
+    background-image: url("./Images/878785.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+nav img {
+    width: 10vw;
+    margin: 5px 10px;
+}
+
+.nav-link {
+    color: black;
+    font-size: 1.25em;
+}
+
+.nav-link:hover {
+    color: rgba(219, 76, 20, 0.781);
+    text-shadow: 2px 2px 3px rgba(219, 76, 20, 1);
+}
+
+video {
+    width: 35vw;
+    margin: 5vh 0 10vh;
+}
